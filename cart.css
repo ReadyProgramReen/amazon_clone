@@ -143,3 +143,7 @@
 .cart-right button:hover{
     background: #ebc712 ;
 }
+
+.cart-footer{
+    margin-top: 50px;
+}
