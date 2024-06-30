@@ -98,3 +98,9 @@
     border-radius: 6px;
     background: #f3f3f3;
 }
+
+.cart-list-subtotal{
+    text-align: right;
+    font-size: 20px;
+    margin-top: 10px;
+}
